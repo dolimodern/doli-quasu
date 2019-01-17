@@ -1,5 +1,5 @@
 #change this to your own repo, should you have uploaded your image!
-FROM  quasarframework/client-dev:latest
+FROM  katharostech/quasar-cli:latest
 
 MAINTAINER Your Name <your.email@your-sites-address.com>
 
