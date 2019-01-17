@@ -3,7 +3,7 @@ version: '2'
 services:
   app:
     build: .
-    image: your-docker-org/your-app-name
+    image: katharostech/quasar-cli
     command: sh
     volumes:
       - .:/opt/app
