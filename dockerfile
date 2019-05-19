@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:10-alpine
 
 # Install vue first and then quasar
 #RUN yarn global add vue-cli

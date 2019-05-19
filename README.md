@@ -34,7 +34,7 @@ Enter the project and install dependencies:
 cd quasu && yarn install
 ```
 
-## Developpement server
+## Developement server
 
 Launch the magic:
 
